@@ -1,0 +1,38 @@
+
+
+li {
+  float: left; list-style: none; padding:3px 30px;
+}
+
+.header-logo {
+  font-size: 50px;
+ float: left;
+}
+
+.header-list{
+  float: left;
+}
+
+
+
+section ,header ,footer{
+   float: left;
+}
+
+
+header {
+  background-color: yellow;
+  width:100%;
+}
+
+section {
+  border: 3px solid black;
+}
+
+footer {
+  background-color: red; width: 100%;
+}
+
+footer li {
+  padding:px 40px;
+}
