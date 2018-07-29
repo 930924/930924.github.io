@@ -1,6 +1,5 @@
 
-
-li {
+.header-list li {
   float: left; list-style: none; padding:3px 30px;
 }
 
@@ -12,8 +11,6 @@ li {
 .header-list{
   float: left;
 }
-
-
 
 section ,header ,footer{
    float: left;
@@ -34,5 +31,3 @@ footer {
 }
 
 footer li {
-  padding:px 40px;
-}
